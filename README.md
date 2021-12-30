@@ -1,7 +1,7 @@
 ### Hello! 👋
 Thanks for stopping by! My name is Neil and I am a data scientist born and raised in the midwest. I love to travel and I consider myself to be a very curious person. Of the many hobbies I have, I'd say baseball, music, and cooking interest me more than anything. I am most skilled in Machine Learning and Data Analysis.
 
-I have a very open mind and will talk about just about anything.
+I have a very open mind and will talk about basically anything.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/neil-tschopp/) if you would like to chat. 😄
 <!-- 
